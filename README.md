@@ -1,4 +1,4 @@
-## 简介
+# 简介
 
 笔者在LeetCode上的算法题解，使用kotlin语言，持续更新中。
 
@@ -14,12 +14,11 @@
 
 解题思路的文字描述
 
-
-## Bug反馈
+# Bug反馈
 
 如果您有任何问题或反馈，请提交到[Github Issues](https://github.com/wkxjc/Kotlin-leetcode/issues).
 
-## LICENSE
+# LICENSE
 
     Copyright (c) 2018-present, CPX Contributors.
     
